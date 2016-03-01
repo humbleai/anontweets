@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Anon Tweets",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Eggify and anonymize Twitter. This tiny extension, replaces profile pictures with eggs, hides names and usernames on Twitter.",
+    "description": "The description of the application, displayed in the web store."
+  }
+}

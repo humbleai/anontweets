@@ -1,0 +1,18 @@
+.username, .fullname,
+.js-retweet-text,
+.twitter-atreply,
+.QuoteTweet-originalAuthor,
+.metadata .social-context,
+.account-group span {
+    display: none !important;
+}
+
+.tweet-timestamp:before {
+    font-weight: bold;
+    color: black;
+    content: "??? ";
+}
+
+.avatar {
+    content: url("chrome-extension://__MSG_@@extension_id__/images/egg.png") !important;
+}
